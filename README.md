@@ -25,4 +25,3 @@ COMPTES DE TEST :
 Plusieurs comptes sont disponibles par défaut pour tester le programme. Du côté étudiants : mourad (mot de passe : radmou), merwan (wanmer) et zakaria (zak123).
 Du côté professeurs : eva (meilleureprof) et romuald (azerty).
 
-(Nous avons déposer notre dossier contenant tout le projet sur github il faut télécharger le code brut)
