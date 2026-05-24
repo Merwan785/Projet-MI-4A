@@ -7,13 +7,11 @@ Le projet est composé de plusieurs fichiers sources : main.c contient le point 
 emprunts.c s'occupe des emprunts et des retours, tris.c regroupe les fonctions de tri, et utilisateurs.c gère la connexion et la création de compte. Les données sont 
 stockées dans deux fichiers texte : livres.txt pour le catalogue et utilisateurs.txt pour les comptes.
 
-
 COMPILATION :
 
 La méthode recommandée est d'utiliser le Makefile fourni. Il suffit d'exécuter la commande "make" dans le dossier du projet pour compiler tous les fichiers et générer
 l'exécutable "exec1". Pour recompiler depuis zéro, on peut enchaîner "make clean" puis "make".
 Une fois compilé, le programme se lance avec la commande : ./exec1
-
 
 UTILISATION :
 
@@ -26,3 +24,5 @@ COMPTES DE TEST :
 
 Plusieurs comptes sont disponibles par défaut pour tester le programme. Du côté étudiants : mourad (mot de passe : radmou), merwan (wanmer) et zakaria (zak123).
 Du côté professeurs : eva (meilleureprof) et romuald (azerty).
+
+(Nous avons déposer notre dossier contenant tout le projet sur github il faut télécharger le code brut)
