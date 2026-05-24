@@ -1,0 +1,57 @@
+1;One Piece;Eiichiro Oda;Manga;0;-;0
+2;Naruto;Masashi Kishimoto;Manga;0;-;0
+3;Bleach;Tite Kubo;Manga;0;-;0
+4;Dragon Ball;Akira Toriyama;Manga;0;-;0
+5;Attack on Titan;Hajime Isayama;Manga;0;-;0
+6;Death Note;Tsugumi Ohba / Takeshi Obata;Manga;0;-;0
+7;Demon Slayer;Koyoharu Gotouge;Manga;0;-;0
+8;Jujutsu Kaisen;Gege Akutami;Manga;0;-;0
+9;My Hero Academia;Kohei Horikoshi;Manga;0;-;0
+10;Fullmetal Alchemist;Hiromu Arakawa;Manga;0;-;0
+11;Tokyo Ghoul;Sui Ishida;Manga;0;-;0
+12;Hunter x Hunter;Yoshihiro Togashi;Manga;0;-;0
+13;JoJo's Bizarre Adventure;Hirohiko Araki;Manga;0;-;0
+14;Chainsaw Man;Tatsuki Fujimoto;Manga;0;-;0
+15;Spy x Family;Tatsuya Endo;Manga;0;-;0
+16;Slam Dunk;Takehiko Inoue;Manga;0;-;0
+17;Fairy Tail;Hiro Mashima;Manga;0;-;0
+18;Black Clover;Yuki Tabata;Manga;0;-;0
+19;Blue Lock;Muneyuki Kaneshiro;Manga;0;-;0
+20;Berserk;Kentaro Miura;Manga;0;-;0
+21;Les Misérables;Victor Hugo;Littérature;0;-;0
+22;Madame Bovary;Gustave Flaubert;Littérature;0;-;0
+23;Le Rouge et le Noir;Stendhal;Littérature;0;-;0
+24;Candide;Voltaire;Littérature;0;-;0
+25;L'Étranger;Albert Camus;Littérature;0;-;0
+26;Germinal;Émile Zola;Littérature;0;-;0
+27;Bel-Ami;Guy de Maupassant;Littérature;0;-;0
+28;Notre-Dame de Paris;Victor Hugo;Littérature;0;-;0
+29;Le Comte de Monte-Cristo;Alexandre Dumas;Littérature;0;-;0
+30;Phèdre;Jean Racine;Littérature;0;-;0
+31;Les Fleurs du mal;Charles Baudelaire;Littérature;0;-;0
+32;Le Père Goriot;Balzac;Littérature;0;-;0
+33;La Peste;Albert Camus;Littérature;0;-;0
+34;Manon Lescaut;Abbé Prévost;Littérature;0;-;0
+35;Voyage au bout de la nuit;Louis-Ferdinand Céline;Littérature;0;-;0
+36;Le Petit Prince;Antoine de Saint‑Exupéry;Enfant;0;-;0
+37;Charlie et la Chocolaterie;Roald Dahl;Enfant;0;-;0
+38;Matilda;Roald Dahl;Enfant;0;-;0
+39;Le Gruffalo;Julia Donaldson;Enfant;0;-;0
+40;Pierre Lapin;Beatrix Potter;Enfant;0;-;0
+41;1984;George Orwell;Science-Fiction;0;-;0
+42;Dune;Frank Herbert;Science-Fiction;0;-;0
+43;Fondation;Isaac Asimov;Science-Fiction;0;-;0
+44;Fahrenheit 451;Ray Bradbury;Science-Fiction;0;-;0
+45;Le Meilleur des mondes;Aldous Huxley;Science-Fiction;0;-;0
+46;Neuromancien;William Gibson;Science-Fiction;0;-;0
+47;La Guerre des mondes;H. G. Wells;Science-Fiction;0;-;0
+48;Ubik;Philip K. Dick;Science-Fiction;0;-;0
+49;Ravage;René Barjavel;Science-Fiction;0;-;0
+50;Hypérion;Dan Simmons;Science-Fiction;0;-;0
+51;Le Cycle des Robots;Isaac Asimov;Science-Fiction;0;-;0
+52;Solaris;Stanisław Lem;Science-Fiction;0;-;0
+53;Sherlock Holmes;Arthur Conan Doyle;Roman Policier;0;-;0
+54;Le Crime de l'Orient-Express;Agatha Christie;Roman Policier;0;-;0
+55;Arsène Lupin;Maurice Leblanc;Roman Policier;0;-;0
+56;Millénium;Stieg Larsson;Roman Policier;0;-;0
+57;Le Dahlia Noir;James Ellroy;Roman Policier;0;-;0
